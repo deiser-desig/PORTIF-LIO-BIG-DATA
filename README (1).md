@@ -1,6 +1,6 @@
 # E-Shop Brasil NoSQL - CRUD com MongoDB e Streamlit
 
-Este projeto é uma aplicação de exemplo para a empresa fictícia **E-Shop Brasil**, utilizando tecnologias modernas como **MongoDB**, **Streamlit**, **Docker** e **Python**.
+Este projeto é uma aplicação de exemplo para a empresa **E-Shop Brasil**, utilizando tecnologias modernas como **MongoDB**, **Streamlit**, **Docker** e **Python**.
 
 A aplicação permite realizar operações **CRUD** (Criar, Ler, Atualizar e Deletar) em uma base de dados **NoSQL**.
 
@@ -89,8 +89,8 @@ Desenvolvido como parte do projeto de modernização de infraestrutura da **E-Sh
 
 ##  Entrega Final
 
-- ✅ Código fonte no GitHub
-- ✅ Docker funcionando para MongoDB
-- ✅ Geração automática de 1 milhão de registros
-- ✅ Aplicação CRUD completa via Streamlit
-- ✅ Vídeo explicativo (caso necessário)
+-  Código fonte no GitHub
+-  Docker funcionando para MongoDB
+-  Geração automática de 1 milhão de registros
+-  Aplicação CRUD completa via Streamlit
+-  Vídeo explicativo.
